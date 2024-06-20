@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LiveEx/static/css/main.32f76053.css",
+    "main.js": "/LiveEx/static/js/main.d7192cbd.js",
+    "static/media/Mkasyap.jpg": "/LiveEx/static/media/Mkasyap.49f74e1bf59ec1d2ae51.jpg",
+    "index.html": "/LiveEx/index.html",
+    "main.32f76053.css.map": "/LiveEx/static/css/main.32f76053.css.map",
+    "main.d7192cbd.js.map": "/LiveEx/static/js/main.d7192cbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32f76053.css",
+    "static/js/main.d7192cbd.js"
+  ]
+}
